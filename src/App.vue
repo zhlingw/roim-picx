@@ -57,8 +57,8 @@ import { ElScrollbar, ElConfigProvider } from 'element-plus'
 import zhCn from 'element-plus/es/locale/lang/zh-cn'
 
 const repoLink = 'https://vimg.pages.dev'
-const repoName = 'CloudFlare Pages'
-const appName = 'PICX Pages'
+const repoName = ' Image Hosting'
+const appName = 'PICX HOSTING'
 
 document.title = appName
 
