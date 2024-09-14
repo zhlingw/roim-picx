@@ -56,7 +56,7 @@ import { useRouter } from 'vue-router'
 import { ElScrollbar, ElConfigProvider } from 'element-plus'
 import zhCn from 'element-plus/es/locale/lang/zh-cn'
 
-const repoLink = 'https://uimg.erin.us.kg'
+const repoLink = 'https://bimg.erin.us.kg'
 const repoName = ' Image Hosting'
 const appName = 'PICX HOSTING'
 
