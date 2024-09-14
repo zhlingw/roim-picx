@@ -56,7 +56,7 @@ import { useRouter } from 'vue-router'
 import { ElScrollbar, ElConfigProvider } from 'element-plus'
 import zhCn from 'element-plus/es/locale/lang/zh-cn'
 
-const repoLink = 'https://vimg.pages.dev'
+const repoLink = 'https://uimg.pages.dev'
 const repoName = ' Image Hosting'
 const appName = 'PICX HOSTING'
 
